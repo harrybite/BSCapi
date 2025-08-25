@@ -1,2 +1,2 @@
-From,Method,To,Amount (BNB),Time,TxHash
-0xc298acede98982674e199da154eaea649a010e18,mintByMaster,0x6b3b95b0c84f35c9c505fff8c2f35ee2e502a44d,0.000000,"12/30/2024, 11:32:58 AM",0x7ac8b56b439a9f194e8f95142df0e9414637905a025b8e50cbe68128edd3831f
+txhash,txType,Amount,Time,Network,explorer
+0x79417e458ade7d416dbc0ace47ec6de8b7923788e4090da2b7565aae25a7d7f5,mintByMaster,105616553,Aug-22-2025 02:00:27 AM UTC,BSC,https://bscscan.com/tx/0x79417e458ade7d416dbc0ace47ec6de8b7923788e4090da2b7565aae25a7d7f5
